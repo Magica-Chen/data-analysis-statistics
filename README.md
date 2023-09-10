@@ -1,11 +1,8 @@
 # Introduction to Data Analysis and Statistics
 
-I will udpate it soon!
-
-Week 1
-Week 2
-Week 3
-
+This repo is prepared for the following courses:
+1. CMSE11615 Data Analysis and Statistics for Business
+2. CMSE11624 Statistics for Analytics
 
 
 
