@@ -1,1 +1,0 @@
-We don't have lab session in the Session 3
