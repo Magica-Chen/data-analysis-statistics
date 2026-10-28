@@ -14,10 +14,6 @@ the activities, space for short responses and worked checks.
 | 3 — Testing claims and comparing groups | 5–7 | Which comparison matches the design? What do a p-value, interval and power measure? | [Lab 3](Lab3/Lab3.ipynb) |
 | 4 — ANOVA, correlation and regression | 8–9 | How do we compare several means, interpret adjusted relationships and evaluate predictions? | [Lab 4](Lab4/Lab4.ipynb) |
 
-Lab 1 introduces Edinburgh's WRDS, FAME, S&P Capital IQ Pro and LSEG Workspace
-services through a source-selection task. Every lab runs using its accompanying
-datasets; database registration is unnecessary for the class activities.
-
 ## Open a notebook
 
 Download or clone the whole repository, retaining the folders and datasets. Use
@@ -32,6 +28,8 @@ A virtual environment is recommended. Create one with `python -m venv .venv`,
 then activate it using `source .venv/bin/activate` on macOS/Linux or
 `.venv\Scripts\Activate.ps1` in Windows PowerShell before installing the packages.
 On systems where the command is `python3`, use that in place of `python`.
+
+**The university virtual machine (Noteable) is highly recommended!**
 
 Open the relevant notebook and select the Python environment containing these
 packages. Run cells from the top with **Shift+Enter**. Each notebook supports a
@@ -49,7 +47,7 @@ investigations after the exit task provide further practice outside the hour.
 Change one assumption or parameter at a time when experimenting. Use **Restart
 Kernel and Run All Cells** to return to a complete, reproducible analysis.
 
-For Python preparation, use
+For Python preparation (if you're not still not familiar with Python), use
 [Python fundamentals](python-fundamentals/Python-fundamentals.ipynb). It covers
 variables, collections, loops, functions, arrays, reading CSV/Excel, tables and
 joins, with practice and worked checks in one notebook.
