@@ -1,7 +1,6 @@
 # Statistics labs
 
-Four one-hour labs for **CMSE11615 Data Analysis and Statistics for Business** and
-**CMSE11624 Statistics for Analytics**, covering lecture weeks 1–9.
+Four one-hour labs for **CMSE11624 Statistics for Analytics**, covering lecture weeks 1–9.
 
 Use the supplied code to investigate statistical ideas: predict a result, run an
 experiment, explain the evidence and state the assumptions. Each notebook contains
