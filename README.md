@@ -1,6 +1,6 @@
 # Statistics labs
 
-Four one-hour labs for **CMSE11624 Statistics for Analytics**, covering lecture weeks 1–9.
+Four labs for **CMSE11624 Statistics for Analytics**, covering lecture weeks 1–9.
 
 Use the supplied code to investigate statistical ideas: predict a result, run an
 experiment, explain the evidence and state the assumptions. Each notebook contains
@@ -35,13 +35,13 @@ packages. Run cells from the top with **Shift+Enter**. Each notebook supports a
 working directory of either its own folder or the repository root. After
 installation, the calculations need no network access. Source links are for reading.
 
-## During the hour
+## Work through a lab
 
-Follow the notebook's timed route through its exit task. Read each prediction or
+Work through the notebook's activities and exit task. Read each prediction or
 discussion prompt before running the supplied cell, and write your interpretation
 in the response cell. Double-click a response cell to edit it, then press
 **Shift+Enter** to display your text. Worked checks are available in the same notebook. Optional
-investigations after the exit task provide further practice outside the hour.
+investigations after the exit task provide further practice.
 
 Change one assumption or parameter at a time when experimenting. Use **Restart
 Kernel and Run All Cells** to return to a complete, reproducible analysis.
