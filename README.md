@@ -1,12 +1,12 @@
 # Statistics labs
 
-Four labs for **CMSE11624 Statistics for Analytics**, covering lecture weeks 1–9.
+Four labs for **CMSE11624 Statistics for Analytics**, covering lecture sessions 1–9.
 
 Use the supplied code to investigate statistical ideas: predict a result, run an
 experiment, explain the evidence and state the assumptions. Each notebook contains
 the activities, space for short responses and worked checks.
 
-| Lab | Lecture weeks | Main questions | Notebook |
+| Lab | Lecture sessions | Main questions | Notebook |
 |---|---|---|---|
 | 1 — From data to probability | 1–3 | Which data source fits the question? What do summaries and conditional probabilities tell us? | [Lab 1](Lab1/Lab1.ipynb) |
 | 2 — Models, sampling and estimation | 4–5 | How does a model describe a process? Why do estimates vary, and what does confidence mean? | [Lab 2](Lab2/Lab2.ipynb) |
